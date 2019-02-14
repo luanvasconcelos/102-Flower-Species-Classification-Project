@@ -4,9 +4,7 @@ NOTE: This project is not over. The final step is to use the trained model in a 
 
 NOTE 2: The .ipynb file was constructed and executed in the Colab environment.
 
-* Introduction:
-
-This work is the capstone project of the Pytorch Scholarship Challenge on Udacity. A deep learning algorithm is trained for an image classification task using a dataset containing images of 102 different species of flowers.
+This work is based on the capstone project of the Pytorch Scholarship Challenge on Udacity. A deep learning algorithm is trained for an image classification task using a dataset containing images of 102 different species of flowers.
 
 In the AI era, artificial inteligence algorithms will be incorporated into more and more everyday applications. An app that depicts a flower specie's name your camera is looking at might be wanted. For this, a way of seeing an image and then classifying it from a pool of labels may be enough to give what is needed. In such a situation, you want to include an image classifier in a smart phone app. Hence, we can use a deep learning model, pre-trained on hundreds of thousands of images as part of the overall application architecture.
 

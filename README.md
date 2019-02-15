@@ -4,7 +4,7 @@ NOTE: This project is not over. The final step is to use the trained model in a 
 
 NOTE 2: The .ipynb file was constructed and executed in the Colab environment.
 
-*Abstract: A CNN classifier was trained based on the Deep Learning DenseNet-161 pre-trained model for the classification of 102 different flower species. It was used a PyTorch framework and the accuracy reached 89.1% on the test set for the top 1 prediction probability and 98.4% for the top 5, yielding a successful prediction for a real life model application.
+* Abstract: A CNN classifier was trained based on the Deep Learning DenseNet-161 pre-trained model for the classification of 102 different flower species. It was used a PyTorch framework and the accuracy reached 89.1% on the test set for the top 1 prediction probability and 98.4% for the top 5, yielding a successful prediction for a real life model application.
 
 This work is based on the capstone project of the Pytorch Scholarship Challenge on Udacity. A deep learning algorithm is trained for an image classification task using a dataset containing images of 102 different species of flowers.
 
